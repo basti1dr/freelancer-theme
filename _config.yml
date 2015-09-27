@@ -1,29 +1,30 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title_html: Bastien Dronneau's Website
+title: Bastien Dronneau
+email: <script type=text/javascript> var name = "bastien.dronneau" ; var domain = "gmail.com" ; var subject = "subject=Contact" ; document.write('<a href="mailto:' + name + '@'w + domain + ' ?' + subject + '">') ; document.write(name + '@' + domain + '</a>') ;</script>
+url: https://bastien.dronneau.fr/"
+description: "Présentation de Bastien DRONNEAU : Une vie basée sur de l'administration système (VMware, Debian, Windows Server) puis une évolution vers du développement (SF2, NodeJS) et pour finir les journées de la photo (Nikon D90)"
+skills: "Développeur - Sysadmin - Photographe"
+meta_author: Bastien DRONNEAU
 
 # Google webmaster tools
-google_verify:
+google_verify: Xoc0x4lS146jIPJInQOwpoE-E0SCtrRFKVg_3z51xTU
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-33296164-3
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+contact: disqus
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: bastiendronneau
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -34,31 +35,31 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
+  copyright: Bastien Dronneau
+  location: Adresse
+  social: Le WWW
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/basti1dr
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/basti1dr
+  - title: linkedin
+    url: http://fr.linkedin.com/pub/bastien-dronneau/39/64b/a8/
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/4809513/bast
+  - title: google-plus
+    url: https://plus.google.com/u/0/+BastienDronneau
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 46, rue dutot
+  - line: 75015 Paris
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank">Start Bootstrap</a>. Implement for jekyll <a href="https://github.com/jeromelachaud/freelancer-theme">Github freelancer-theme</a>'
 
 # Build settings
 markdown: kramdown
