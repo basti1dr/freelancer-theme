@@ -20,6 +20,11 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/freelancer.js" }}"></script>
 
+    <!-- Google Stuff Analytics snippet -->
+    {% if site.google_analytics %}
+    <script src="{{ "/js/google_analytics.js" }}"></script>
+    {% endif %}
+
     {% if site.contact == "disqus" %}
     <!-- Disqus Stuff -->
     {% include js_disqus.html %}
