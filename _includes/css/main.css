@@ -454,3 +454,13 @@ https://github.com/twbs/bootstrap/issues/16297 */
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+.list-learning {
+  font-size: 20px;
+}
+
+.white-link, a:hover, a:focus, a:active, a.active {
+  color: #FFFFFF;
+  font-weight: bold;
+}
