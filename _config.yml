@@ -59,7 +59,7 @@ address:
   - line: 75015 Paris
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank">Start Bootstrap</a>. Implement for jekyll <a href="https://github.com/jeromelachaud/freelancer-theme">Github freelancer-theme</a>'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank">Start Bootstrap</a>. Implement for jekyll by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a> optimize <a href="https://github.com/basti1dr/freelancer-theme">here</a>'
 
 # Build settings
 markdown: kramdown
