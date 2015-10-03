@@ -1,5 +1,5 @@
 # Site settings
-title_html: Bastien Dronneau's Website
+title_html: Bastien Dronneau | Personnal Website
 title: Bastien Dronneau
 email: <script type=text/javascript> var name = "bastien.dronneau" ; var domain = "gmail.com" ; var subject = "subject=Contact" ; document.write('<a href="mailto:' + name + '@'w + domain + ' ?' + subject + '">') ; document.write(name + '@' + domain + '</a>') ;</script>
 url: https://bastien.dronneau.fr/
@@ -59,7 +59,7 @@ address:
   - line: 75015 Paris
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank">Start Bootstrap</a>. Implement for jekyll by <a href="https://github.com/jeromelachaud/freelancer-theme">Jerome Lachaud</a> optimize <a href="https://github.com/basti1dr/freelancer-theme">here</a>'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank">Start Bootstrap</a>. Implement for jekyll <a href="https://github.com/jeromelachaud/freelancer-theme">here</a> and optimize <a href="https://github.com/basti1dr/freelancer-theme">here</a>'
 
 # Build settings
 markdown: kramdown
