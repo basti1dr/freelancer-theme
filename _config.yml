@@ -3,7 +3,7 @@ title_html: Bastien Dronneau | Personnal Website
 title: Bastien Dronneau
 email: <script type=text/javascript> var name = "bastien.dronneau" ; var domain = "gmail.com" ; var subject = "subject=Contact" ; document.write('<a href="mailto:' + name + '@'w + domain + ' ?' + subject + '">') ; document.write(name + '@' + domain + '</a>') ;</script>
 url: https://bastien.dronneau.fr/
-description: "Présentation de Bastien DRONNEAU : Une vie basée sur de l'administration système (VMware, Debian, Windows Server) puis une évolution vers du développement (SF2, NodeJS) et pour finir les journées de la photo (Nikon D90)"
+description: "Présentation de Bastien DRONNEAU : une vie mixée entre du développement et l'administration système et des fins de journées rythmées de photos et de squash."
 skills: "Développeur - Sysadmin - Photographe"
 meta_author: Bastien DRONNEAU
 
