@@ -11,7 +11,7 @@ meta_author: Bastien DRONNEAU
 google_verify: Xoc0x4lS146jIPJInQOwpoE-E0SCtrRFKVg_3z51xTU
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: 383E7098AC7DD5E84329709917C7815D
 
 # Google Analytics
 google_analytics: UA-33296164-3
